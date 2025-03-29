@@ -42,24 +42,6 @@ The goal was to create an interactive map that:
 - [D3.js](https://d3js.org/) for fetching and handling GeoJSON data
 - HTML, CSS, and JavaScript
 
-## 📁 File Structure
-
-```
-├── index.html
-├── static
-│   ├── css
-│   │   └── style.css
-│   └── js
-│       └── logic.js
-```
-
-## 🚀 Future Improvements (Optional)
-
-- Add tectonic plate boundaries
-- Include a heatmap view
-- Add a dropdown to select different time ranges (last hour, day, week, month)
-- Add layer toggles for different map styles
-
 ## 📚 Source
 
 - Earthquake data: [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
